@@ -7,9 +7,7 @@ level -> Easy
 2. gobuster
 
 まずはIPを設定しておく
-`
-export IP=machine_ip_adress
-`
+`export IP=machine_ip_adress`
 
 #### Task1, What is the first ingredient that Rick needs?
 ピクルスを人間に戻すための素材を見つけるらしい(?
