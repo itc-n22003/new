@@ -7,14 +7,15 @@ level -> Easy
 2. gobuster
 
 まずはIPを設定しておく
+
 `export IP=machine_ip_adress`
 
 #### Task1, What is the first ingredient that Rick needs?
 ピクルスを人間に戻すための素材を見つけるらしい(?
 
 どのポートが空いているのか確認
-`
-nmap -sV -sC $IP
-`
+
+`nmap -sV -sC $IP`
+
 結果をみると80と22が空いているらしいので80を見に行く
 
