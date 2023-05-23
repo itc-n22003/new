@@ -13,7 +13,8 @@ level -> Easy
 
 `export IP=machine_ip_adress`
 
-## Task1, What is the first ingredient that Rick needs?
+## Task1, Pickle Rick
+### What is the first ingredient that Rick needs?
 ピクルスを人間に戻すための素材を見つけるらしい(?
 どのポートが空いているのか確認
 
@@ -70,9 +71,9 @@ Sup3rS3cretPickl3Ingred.txtが気になったのでcatで見てみる
 `cat Sup3rS3cretPickl3Ingred.txt`
 
 1つ目の素材をつけた
-### *mr. meeseek hair*
+#### *mr. meeseek hair*
 
-## Task2, What is the second ingredient in Rick’s potion?
+### What is the second ingredient in Rick’s potion?
 ポーションの素材を探す
 とりあえずホームディレクトリに移動して誰がいるのか確認
 
@@ -87,9 +88,9 @@ second ingredientsを見つけたのでcatで見てみる
 `cat second\ ingredients`
 
 2つ目の素材を見つけた
-### *1 jerry tear*
+#### *1 jerry tear*
 
-## Task3, What is the last and final ingredient?
+### What is the last and final ingredient?
 3つ目を探す
 最後なので/rootにあるだろうから権限を昇格する
 sudoできるコマンドがあるか調べる
@@ -114,7 +115,7 @@ sudoできるコマンドがあるか調べる
 `cat 3rd.txt`
 
 3つ目の素材を見つけた
-### *fleeb juice*
+#### *fleeb juice*
 
 これでこのルームは終わり
 このルームで見つけた素材3つでピクルスを人間に戻せるらしいです(?
